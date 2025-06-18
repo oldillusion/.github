@@ -8,6 +8,10 @@ It's a misheard lyric from the opening song, Rodent, on Skinny Puppy's Rabies al
 
 Still think it would have been a good name for a greatest hits collection, but it's my name now.
 
+## And the emo-kid with the knives for the logo?
+
+It's not a phase, Mom!  That's Johnny the Homicidan Maniac, a brilliant comic by Jhonen Vasquez, who also created the equally brilliant cartoon, Invader Zim.
+
 ## You've been in IT for decades, why so little code here?
 
 Because I'm an idiot and I have a bad habit of deleting things when I have no need for them any more.  This has caused me delete loads of repos over the years that I just didn't care for any more - sure, archiving would have been smarter, but here we are.
